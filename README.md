@@ -1,2 +1,2 @@
 # Note.app
-bghit gha n3s
+Trying to code the backend and frontend in 2hours
